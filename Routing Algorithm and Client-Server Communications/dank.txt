@@ -1,0 +1,72 @@
+1.0 km
+turn-right
+0.8 km
+turn-left
+1.1 km
+turn-right
+0.5 km
+ramp-left
+26.9 km
+merge
+2.9 km
+merge
+3.7 km
+keep-left
+4.2 km
+fork-left
+102 km
+fork-right
+1.2 km
+keep-left
+4.2 km
+keep-left
+0.8 km
+ramp-right
+55.3 km
+fork-right
+249 km
+ramp-right
+3.5 km
+keep-left
+0.5 km
+fork-right
+234 km
+fork-left
+267 km
+ramp-left
+2.3 km
+fork-right
+151 km
+keep-left
+42.9 km
+fork-left
+4.1 km
+fork-left
+4.8 km
+keep-left
+7.0 km
+keep-left
+552 km
+keep-left
+271 km
+fork-left
+12.8 km
+ramp-right
+1.4 km
+ramp-right
+0.7 km
+merge
+10.0 km
+keep-left
+0.4 km
+merge
+14.1 km
+ramp-right
+0.7 km
+ramp-right
+0.7 km
+keep-left
+0.6 km
+turn-left
+77 m
+uturn-left
